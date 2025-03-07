@@ -25,7 +25,7 @@ pip install image_processing
 ```
 
 ## Author
-Thalia Danielle
+Thalia
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
